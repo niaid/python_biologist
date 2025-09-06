@@ -28,6 +28,11 @@ __Topics Covered__:
 Regards,
 
 R. Burke Squires
-Computational Genomics Specialist
-BCBB / OCICB / OSMO / OD / NIAID / NIH
-http://bioinformatics.niaid.nih.gov
+Formerly: 
+  Computational Genomics Specialist
+  BCBB / OCICB / OSMO / OD / NIAID / NIH
+  http://bioinformatics.niaid.nih.gov
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=burkesquires/python_biologist&type=Date)](https://www.star-history.com/#burkesquires/python_biologist&Date)

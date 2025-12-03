@@ -28,6 +28,7 @@ __Topics Covered__:
 **Videos**
 
 - [ACE_Genome_Visualization_subtitled.mp4](https://s3.amazonaws.com/proj-bip-prod-publicread/training/python_biologist/ACE_Genome_Visualization_subtitled.mp4)
+- [Intermediate_Python_subtitled.mp4](https://s3.amazonaws.com/proj-bip-prod-publicread/training/python_biologist/Intermediate_Python_subtitled.mp4)
 - [Intro_to_Machine_Learning_with_scikitlearn_Py.subtitled.mp4](https://s3.amazonaws.com/proj-bip-prod-publicread/training/python_biologist/Intro_to_Machine_Learning_with_scikitlearn_Py.subtitled.mp4)
 - [Reproducible_Science_Python_Series_Wrap-up_subtitled_trim.mp4](https://s3.amazonaws.com/proj-bip-prod-publicread/training/python_biologist/Reproducible_Science_Python_Series_Wrap-up_subtitled_trim.mp4)
 - [Workflows_with_Python_and_snakemake_subtitled_trim.mp4](https://s3.amazonaws.com/proj-bip-prod-publicread/training/python_biologist/Workflows_with_Python_and_snakemake_subtitled_trim.mp4)
